@@ -1,0 +1,2 @@
+LINUX 8 https://example.com/update_linux.sh
+WINDOWS 8 https://example.com/update_windows.exe
