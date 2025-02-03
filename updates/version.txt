@@ -1,2 +1,3 @@
-LINUX 7 https://github.com/leegarchat/my_lock_info/raw/refs/heads/main/updates/Linux_%D0%90%D0%B2%D1%82%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%D0%93%D0%B0%D0%B7_%D0%908
-WINDOWS 7 https://github.com/leegarchat/my_lock_info/raw/refs/heads/main/updates/Win_%D0%90%D0%B2%D1%82%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%D0%93%D0%B0%D0%B7_%D0%908.exe
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b161c2f8db44819aaca52fb20d00c03599c8b0d25d778a6c8e8543de2656480
+size 360
