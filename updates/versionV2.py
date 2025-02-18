@@ -2,17 +2,17 @@
 def get_version_info():
     # https://media.githubusercontent.com/media/leegarchat/my_lock_info/refs/heads/main/updates/versionV2.py
     main_url = "https://github.com/leegarchat/my_lock_info/raw/refs/heads/main/updates/"
-    VER = 15
+    VER = 17
     data = {
         "acces_export_new_order": False,
         "update_info": {
             "LINUX": {
-                "Ver": 16,
-                "Url": f"https://sourceforge.net/projects/cdek-my/files/LinuxA16/download"
+                "Ver": 17,
+                "Url": f"https://sourceforge.net/projects/cdek-my/files/LinuxA{VER}/download"
                 },
             "WINDOWS": {
-                "Ver": 15,
-                "Url": f"https://sourceforge.net/projects/cdek-my/files/WinA15.exe/download"
+                "Ver": 17,
+                "Url": f"https://sourceforge.net/projects/cdek-my/files/WinA{VER}.exe/download"
                 }
         },
         "changelog": {
@@ -28,6 +28,10 @@ def get_version_info():
                 '- Уменьшено обращений к северу для проверок доступа\n'
                 '- Добавлено сообщение об изменение перед обновлением\n'
                 '- Добавлено сообщение об сроке работы текущей версии программы перед обновлением\n'
+                'v16:\n'
+                '- Исправления для linx\n'
+                'v17:\n'
+                '- Миграция на другой сервер\n'
                     )
         },
         "avalable_ver": {
