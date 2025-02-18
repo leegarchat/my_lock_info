@@ -3,18 +3,16 @@ def get_version_info():
     # https://media.githubusercontent.com/media/leegarchat/my_lock_info/refs/heads/main/updates/versionV2.py
     main_url = "https://github.com/leegarchat/my_lock_info/raw/refs/heads/main/updates/"
     VER = 15
-    VER_NAME = f"%D0%90%D0%B2%D1%82%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%D0%93%D0%B0%D0%B7_%D0%90{VER}"
-    VER_NAME_LINUX = f"%D0%90%D0%B2%D1%82%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%D0%93%D0%B0%D0%B7_%D0%9016"
     data = {
         "acces_export_new_order": False,
         "update_info": {
             "LINUX": {
                 "Ver": 16,
-                "Url": f"{main_url}Linux_{VER_NAME_LINUX}"
+                "Url": f"https://sourceforge.net/projects/cdek-my/files/LinuxA16/download"
                 },
             "WINDOWS": {
                 "Ver": 15,
-                "Url": f"{main_url}Win_{VER_NAME}.exe"
+                "Url": f"https://sourceforge.net/projects/cdek-my/files/WinA15.exe/download"
                 }
         },
         "changelog": {
