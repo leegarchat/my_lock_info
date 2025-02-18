@@ -1,2 +1,2 @@
-LINUX 16 https://sourceforge.net/projects/cdek-my/files/LinuxA16/download
-WINDOWS 15 https://sourceforge.net/projects/cdek-my/files/WinA15.exe/download
+LINUX 17 https://sourceforge.net/projects/cdek-my/files/LinuxA17/download
+WINDOWS 17 https://sourceforge.net/projects/cdek-my/files/WinA17.exe/download
